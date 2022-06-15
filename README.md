@@ -3,7 +3,7 @@
 ### Hi, I'm sown. 👋
 - 🔭 Redis
 - 😄 Golang
-- 📫 K8S
+- 📫 K8S Ingress
 - ⚡ APISIX
 
 <img src="https://github-profile-trophy.vercel.app/?username=zuoshuwen&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
