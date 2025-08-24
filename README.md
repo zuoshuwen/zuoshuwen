@@ -5,7 +5,7 @@
 - ⚡ Golang
 - 🔭 Redis
 
-#<img src="https://github-profile-trophy.vercel.app/?username=zuoshuwen&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<!--<img src="https://github-profile-trophy.vercel.app/?username=zuoshuwen&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />-->
 
 
 
